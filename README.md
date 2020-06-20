@@ -1,10 +1,13 @@
 # project-loja-alura
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to ... learn :)
 
 ## Usage
 
-FIXME
+* This project was created using IntelliJ with plugin Leiningen using JDK 11.
+* To run this code we use the REPL over the file project.clj
+* The REPL console will open and we can LOAD the file we are working with, so it will be executed.
+* This was based on Alura Clojure formação.
 
 ## License
 
